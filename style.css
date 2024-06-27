@@ -25,7 +25,8 @@ body{
 }
 
 .title {
-
+    flex-direction: column;
+    align-items: center;
 
     font-family: "JetBrains Mono", monospace;
     font-optical-sizing: auto;
@@ -36,7 +37,8 @@ body{
 }
 
 .name{
-
+    flex-direction: column;
+    align-items: center;
 
     font-family: "JetBrains Mono", monospace;
     font-optical-sizing: auto;
@@ -45,8 +47,8 @@ body{
 }
 
 .text {
-
-
+    flex-direction: column;
+    align-items: center;
 
     font-family: "JetBrains Mono", monospace;
     font-optical-sizing: auto;
