@@ -9,8 +9,8 @@ Site sobre os beneficios da leitura para qualquer área da vida, trabalho e estu
 O site recomendará livros de interesse para pessoas do campo ou da cidade, conectando toda a sociedade.
 
 ## Acessibility:
-Some acessibility features: dark mode, smartphone compatibility.
+Acessibility feature: smartphone compatibility.
 
 ## Acessibilidade:
-Algumas funções de acessibilidade: modo escuro, compatibilidade com celulares.
+Função de acessibilidade: compatibilidade com celulares.
 
