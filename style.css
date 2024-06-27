@@ -5,6 +5,7 @@ body{
 }
 
 .agrinho {
+    display: flex;
     font-family: "JetBrains Mono", monospace;
     font-optical-sizing: auto;
     font-weight: 400;
