@@ -4,7 +4,6 @@ body{
     display: flex;
     flex-direction: column;
     background-color: #d9d9d9;
-    align-items: center;
 }
 
 .agrinho {
@@ -24,6 +23,9 @@ body{
 }
 
 .title {
+    align-items: center;
+    display: flex;
+
     font-family: "JetBrains Mono", monospace;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -33,6 +35,9 @@ body{
 }
 
 .name{
+    align-items: center;
+    display: flex;
+
     font-family: "JetBrains Mono", monospace;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -40,6 +45,9 @@ body{
 }
 
 .text {
+    align-items: center;
+    display: flex;
+
     font-family: "JetBrains Mono", monospace;
     font-optical-sizing: auto;
     font-weight: 400;
