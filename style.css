@@ -26,7 +26,7 @@ body{
     font-weight: 400;
     color: #ffffff;
 
-    justify-content: center;
+    align-items: center;
     font-size: 40px;
 }
 
@@ -35,12 +35,12 @@ body{
     font-optical-sizing: auto;
     font-weight: 400;
     color: #ffffff;
-    justify-content: center;
+    align-items: center;
 
 }
 
 .text {
-    justify-content: center;
+    align-items: center;
     font-family: "JetBrains Mono", monospace;
     font-optical-sizing: auto;
     font-weight: 400;
