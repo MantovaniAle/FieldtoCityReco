@@ -2,6 +2,7 @@
 
 body{
     background-color: #d9d9d9;
+    justify-content: center;
 }
 
 .agrinho {
@@ -26,7 +27,6 @@ body{
     font-weight: 400;
     color: #ffffff;
 
-    align-items: center;
     font-size: 40px;
 }
 
@@ -35,12 +35,9 @@ body{
     font-optical-sizing: auto;
     font-weight: 400;
     color: #ffffff;
-    align-items: center;
-
 }
 
 .text {
-    align-items: center;
     font-family: "JetBrains Mono", monospace;
     font-optical-sizing: auto;
     font-weight: 400;
