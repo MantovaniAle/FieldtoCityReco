@@ -6,6 +6,7 @@ body{
 
 .agrinho {
     display: flex;
+
     font-family: "JetBrains Mono", monospace;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -25,6 +26,7 @@ body{
     font-weight: 400;
     color: #ffffff;
 
+    font-size: ;
 }
 
 .text {
