@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital@1&display=swap');
 
 body{
-    display: flex;
-    flex-direction: column;
     background-color: #d9d9d9;
 }
 
@@ -18,13 +16,13 @@ body{
     height: 30px;
     background-color: #005312;
     justify-content: center;
+
     text-align: center;
     align-items: center;
 }
 
 .title {
-    align-items: center;
-    display: flex;
+
 
     font-family: "JetBrains Mono", monospace;
     font-optical-sizing: auto;
@@ -35,8 +33,7 @@ body{
 }
 
 .name{
-    align-items: center;
-    display: flex;
+
 
     font-family: "JetBrains Mono", monospace;
     font-optical-sizing: auto;
@@ -45,8 +42,8 @@ body{
 }
 
 .text {
-    align-items: center;
-    display: flex;
+
+
 
     font-family: "JetBrains Mono", monospace;
     font-optical-sizing: auto;
