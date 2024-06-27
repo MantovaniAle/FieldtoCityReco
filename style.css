@@ -4,6 +4,7 @@ body{
     background-color: #d9d9d9;
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 
 .agrinho {
