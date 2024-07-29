@@ -90,6 +90,7 @@ body{
 }
 
 .button {
+    margin: 15px;
     background-color: #005c08;
     border: none;
     color: white;
